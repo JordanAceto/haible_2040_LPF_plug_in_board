@@ -267,7 +267,7 @@ U 1 1 5D9F6824
 P 3050 4700
 F 0 "RV1" H 3000 4700 50  0000 R CNN
 F 1 "10k" V 3050 4800 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 3050 4700 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 3050 4700 50  0001 C CNN
 F 3 "~" H 3050 4700 50  0001 C CNN
 	1    3050 4700
 	1    0    0    1   
@@ -278,7 +278,7 @@ U 1 1 5D9F94A5
 P 3700 5350
 F 0 "RV2" V 3600 5350 50  0000 C CNN
 F 1 "100k" V 3700 5350 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 3700 5350 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 3700 5350 50  0001 C CNN
 F 3 "~" H 3700 5350 50  0001 C CNN
 	1    3700 5350
 	0    -1   -1   0   
@@ -342,7 +342,7 @@ U 1 1 5E59DC3A
 P 7550 5200
 F 0 "RV3" V 7450 5200 50  0000 C CNN
 F 1 "100k" V 7550 5200 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 7550 5200 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 7550 5200 50  0001 C CNN
 F 3 "~" H 7550 5200 50  0001 C CNN
 	1    7550 5200
 	0    1    1    0   
